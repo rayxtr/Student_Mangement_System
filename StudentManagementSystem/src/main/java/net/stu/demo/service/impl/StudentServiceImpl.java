@@ -47,6 +47,13 @@ public class StudentServiceImpl implements StudentService{
 		 stud.deleteById(Id);
 	}
 	
+	@Override
+	public Student deleteStudent2(Long Id) {
+	Student deleted = 	stud.findById(Id).get();
+	     stud.delete(deleted);
+	     return deleted;
+		
+	}
 	
 	
 }
