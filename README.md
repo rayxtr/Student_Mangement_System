@@ -14,5 +14,14 @@ Tech Stack Used :
 
 There is a view of the student management system in a html page. 
 There is Rest-Api also for using it in website design.
-<h2>URL to use this API</h2>http://localhost:8080/students
+<h1>How to use Application</h1>
+<li>Open Github</li>
+<li>Open<a href="https://github.com/rayxtr/Student_Mangement_System">https://github.com/rayxtr/Student_Mangement_System</a></li>
+<li>copy Repository link.</li>
+<li>Clone Repository to Your Local Folder.</li>
+<li>Open STS >> Import projects >> Choose directory for your Project</li>
+<li>Inside Project open app and Run Application as Spring boot application</li>
+<h2>URL to use this API for Controller</h2>http://localhost:8080/students
+<h2>URL to use this API for REST </h2>http://localhost:8080/management
+
 
