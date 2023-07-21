@@ -23,5 +23,7 @@ There is Rest-Api also for using it in website design.
 <li>Inside Project open app and Run Application as Spring boot application</li>
 <h2>URL to use this API for Controller</h2>http://localhost:8080/students
 <h2>URL to use this API for REST </h2>http://localhost:8080/management
+<h1>MVC DEMO</h1>
+<img src="https://github.com/rayxtr/Student_Mangement_System/blob/main/Screenshot%20(35).png?raw=true"/>
 
 
