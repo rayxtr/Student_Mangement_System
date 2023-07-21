@@ -29,4 +29,10 @@ There is Rest-Api also for using it in website design.
 <h1>REST API DEMO using PostMan</h1>
 <img src ="https://github.com/rayxtr/Student_Mangement_System/blob/main/Screenshot%20(36).png?raw=true"/>
 
+<h1>Database Model - </h1><h3>Using (SQL commands and structure of table)</h3>
+<img src="https://github.com/rayxtr/Student_Mangement_System/blob/main/Screenshot%20(37).png?raw=true"/>
+
+<h3>Thank You for your visit.</h3>
+
+
 
