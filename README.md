@@ -25,6 +25,7 @@ There is Rest-Api also for using it in website design.
 <h2>URL to use this API for REST </h2>http://localhost:8080/management
 <h1>MVC DEMO</h1>
 <img src="https://github.com/rayxtr/Student_Mangement_System/blob/main/Screenshot%20(35).png?raw=true"/>
+
 <h1>REST API DEMO using PostMan</h1>
 <img src ="https://github.com/rayxtr/Student_Mangement_System/blob/main/Screenshot%20(36).png?raw=true"/>
 
